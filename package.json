@@ -1,0 +1,21 @@
+{
+  "name": "tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fast-xml-parser": "^3.17.6",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "xml-js": "^1.6.11",
+    "xml-stream": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "node ./filter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
